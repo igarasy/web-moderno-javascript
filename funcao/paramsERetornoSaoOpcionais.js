@@ -1,0 +1,1 @@
+// Os parametros e retonos de uma função são opcionais, não é necessário passar um parametro e também não é necessário que ela retorne algo 
