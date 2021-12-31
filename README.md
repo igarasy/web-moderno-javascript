@@ -4,3 +4,5 @@ Esse repositório contém as anotações realizadas durante a realização do cu
 O curso aborda todos os fundamentos da linguagem JavaScript e também outros conceitos importantes de Web. 
 
 As pastas estão divididas entre as bases da linguagem e cada arquivo contém um exemplo de como o fundamento funciona. 
+
+Link do curso: https://www.udemy.com/course/curso-web/
