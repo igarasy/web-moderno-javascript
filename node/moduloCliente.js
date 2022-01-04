@@ -1,0 +1,15 @@
+/* Importando arquivos exportados de outros módulos 
+
+Usamos o require para exportar um arquivo e passamos em forma de pasta o local do arquivo que desejamos importar
+*/
+
+const moduloA = require('./moduloA')
+const moduloB = require('./moduloB')
+
+console.log(moduloA.ola)
+console.log(moduloA.bemVindo)
+console.log(moduloA.ateLogo)
+
+console.log(moduloB.bomDia)
+console.log(moduloB.boaNoite())
+console.log(moduloB)
