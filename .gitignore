@@ -1,3 +1,5 @@
+/* Todos arquivos que estiverem dentro desse não serão commitados para o github*/
+
 node_modules/
 .package-lock.json
 package-lock.json
